@@ -87,7 +87,7 @@
 //     const enteredNumber = getUserNumberInput();
 //     const initialResult = currentResult;
 //     currentResult = currentResult + enteredNumber;
-//     // shortway for previous line
+//     // shorthand for previous line
 //     // currentResult += enteredNumber;
 //     createAndWriteOutput("+", initialResult, enteredNumber);
 // }
